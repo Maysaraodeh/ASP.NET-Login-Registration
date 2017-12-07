@@ -1,0 +1,9 @@
+Y:\Projects\Login-v4\Login-v4\bin\Login-v4.dll.config
+Y:\Projects\Login-v4\Login-v4\bin\Login-v4.dll
+Y:\Projects\Login-v4\Login-v4\bin\Login-v4.pdb
+Y:\Projects\Login-v4\Login-v4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\Projects\Login-v4\Login-v4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\Projects\Login-v4\Login-v4\obj\Debug\Login-v4.csprojResolveAssemblyReference.cache
+Y:\Projects\Login-v4\Login-v4\obj\Debug\Login-v4.csproj.CoreCompileInputs.cache
+Y:\Projects\Login-v4\Login-v4\obj\Debug\Login-v4.dll
+Y:\Projects\Login-v4\Login-v4\obj\Debug\Login-v4.pdb
